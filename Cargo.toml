@@ -1,9 +1,9 @@
 [package]
-name = "lua_bind_hash"
-version = "1.0.0"
 authors = ["jam1garner <jam1.mcleod@hotmail.com>"]
+description = "An implementation of the lua bindings hash from Smash Ultimate"
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+license = "MIT"
+name = "lua_bind_hash"
+version = "1.0.1"
 
 [dependencies]
